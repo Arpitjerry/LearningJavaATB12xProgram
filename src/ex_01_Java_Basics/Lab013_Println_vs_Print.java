@@ -6,5 +6,8 @@ public class Lab013_Println_vs_Print {
 
         System.out.print("Hi"); // newline
         System.out.print("Bye");
+        int i = 1, j = 2, k = 3;
+
+
     }
 }

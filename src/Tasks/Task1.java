@@ -1,5 +1,7 @@
 package Tasks;
 
+import java.sql.SQLOutput;
+
 public class Task1 {
     public static void main(String[] args) {
         int num=5;
@@ -16,5 +18,7 @@ public class Task1 {
 
       //  System.out.println(num +"x1="+num*1);
 
+      int a=-1;
+        System.out.println(a--);
     }
 }
